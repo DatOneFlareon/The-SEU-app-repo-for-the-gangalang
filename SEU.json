@@ -3,8 +3,8 @@
   "identifier": "com.example.universalrepo",
   "subtitle": "the super mango 67 repository oh my gawww",
   "description": "ADRIAN.",
-  "icon": "https://ibb.co/j91B7wXS",
-  "website": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/blob/main/SEU.json",
+  "icon": "https://image2url.com/r2/default/images/1770559172274-e1d8f82f-a905-4bb4-a04a-6461971d7624.jpeg",
+  "website": "https://yourdomain.com",
 
   "apps": [
     {
@@ -14,7 +14,7 @@
       "version": "6.7.6",
       "versionDate": "2026-01-01",
       "size": 48234496,
-      "icon": "https://ibb.co/mVSY2NcW",
+      "icon": "https://image2url.com/r2/default/images/1770558847631-89897211-dc12-46a3-893c-50d21f1e92a2.png",
       "down": "https://github.com/markw0d0ffical-dot/roblox-ipa-download/releases/download/v2.611/Roblox-ipa-v2-611-robloxmoddapk.com.ipa",
       "description": "TS IS NOT SHOWBIE 🥀."
     },
@@ -25,6 +25,9 @@
       "version": "6.7.6",
       "versionDate": "2026-01-10",
       "size": 73400320,
-      "icon": "https://yourdomain.com/repo/icons/app2.png",
+      "icon": "https://image2url.com/r2/default/images/1770559113510-cc6e38dc-7f91-4f68-ae15-c9d15431915d.jpeg",
       "down": "https://yourdomain.com/ipas/anotherapp.ipa",
       "description": "Second app in the repo."
+      }
+    ]
+  }
