@@ -1,0 +1,30 @@
+{
+  "name": "SEU app source",
+  "identifier": "com.example.universalrepo",
+  "subtitle": "the super mango 67 repository oh my gawww",
+  "description": "ADRIAN.",
+  "icon": "https://ibb.co/j91B7wXS",
+  "website": "https://yourdomain.com",
+
+  "apps": [
+    {
+      "name": "Not Showbie",
+      "bundleID": "seu.rahblax.hehehehaw",
+      "developer": "SEU Distributor",
+      "version": "6.7.6",
+      "versionDate": "2026-01-01",
+      "size": 48234496,
+      "icon": "https://ibb.co/mVSY2NcW",
+      "down": "https://github.com/markw0d0ffical-dot/roblox-ipa-download/releases/download/v2.611/Roblox-ipa-v2-611-robloxmoddapk.com.ipa",
+      "description": "TS IS NOT SHOWBIE 🥀."
+    },
+    {
+      "name": "Definately Arbor",
+      "bundleID": "seu.ruhkitliggg.hehehehaw",
+      "developer": "SEU Distributor",
+      "version": "6.7.6",
+      "versionDate": "2026-01-10",
+      "size": 73400320,
+      "icon": "https://yourdomain.com/repo/icons/app2.png",
+      "down": "https://yourdomain.com/ipas/anotherapp.ipa",
+      "description": "Second app in the repo."
