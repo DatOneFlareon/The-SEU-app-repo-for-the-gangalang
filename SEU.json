@@ -5,8 +5,7 @@
   "description": "wsg",
   "website": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang",
   "tintColor": "F1533E",
-  "iconURL": "https://avatars.githubusercontent.com/u/28218457?v=4"
-  
+  "iconURL": "https://avatars.githubusercontent.com/u/28218457?v=4",
   "apps": [
     {
       "beta": false,
@@ -19,11 +18,11 @@
       "versionDescription": "Latest version of ipa file!!!",
       "downloadURL": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/raw/refs/heads/main/Ipa%20file/osign.ipa",
       "localizedDescription": "i love file explorers!!",
-      "iconURL": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/blob/main/Ipa%20file/IMG_3854.jpeg",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3854.jpeg",
       "tintColor": "9b54fd",
       "size": 67676767,
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_3878.jpeg"
+        "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3878.jpeg"
       ]
     }
   ]
