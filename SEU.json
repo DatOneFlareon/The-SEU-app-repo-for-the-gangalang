@@ -1,6 +1,12 @@
 {
   "name": "SEU official repository",
-  "identifier": "co.seu.de",
+  "identifier": "com.github.DatOneFlareon",
+  "subtitle": "Sup",
+  "description": "wsg",
+  "website": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang",
+  "tintColor": "F1533E",
+  "iconURL": "https://avatars.githubusercontent.com/u/28218457?v=4"
+  
   "apps": [
     {
       "beta": false,
