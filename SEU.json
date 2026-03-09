@@ -1,1 +1,26 @@
-
+{
+  "name": "SEU official repository",
+  "identifier": "co.seu.de",
+  "apps": [
+    {
+      "beta": false,
+      "name": "PDF Oditor",
+      "bundleIdentifier": "co.pdfoditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "This is a generic pdf editor. it is defo what its meant to be",
+      "version": "LatestVersion.Idk",
+      "versionDate": "2026-03-06T11:36:00+02:00",
+      "versionDescription": "Latest version of ipa file!!!",
+      "downloadURL": "",
+      "localizedDescription": "i love file explorers!!",
+      "iconURL": "",
+      "tintColor": "9b54fd",
+      "size": 67676767,
+      "screenshotURLs": [
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
