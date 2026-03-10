@@ -1,1 +1,73 @@
-{"name":"SEU repository.","identifier":"com.github.DatOneFlareon","subtitle":"Enjoy!","description":"Official SEU repository.","website":"https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang","tintColor":"F1533E","iconURL":"https://avatars.githubusercontent.com/u/28218457?v=4","apps":[{"beta":false,"name":"PDF Oditor","bundleIdentifier":"co.pdfoditor.de","developerName":"Distributor: Umbra","subtitle":"This is a generic PDF oditor. It is what it's meant to be.","version":"LatestVersion.Idk","versionDate":"2026-03-06T11:36:00+02:00","versionDescription":"Latest version of the IPA file.","downloadURL":"https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/raw/refs/heads/main/Ipa%20file/osign.ipa","localizedDescription":"PDF oditor.","iconURL":"https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3854.jpeg","tintColor":"9b54fd","size":15000000,"screenshotURLs":["https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3878.jpeg"]},{"beta":false,"name":"Flamingo","bundleIdentifier":"co.flamingo.de","developerName":"Distributor: uxp","subtitle":"We love flamingos.","version":"1.0.0","versionDate":"2026-03-10T00:00:00+00:00","versionDescription":"Close to latest update.","downloadURL":"https://filebin.net/3ist5wyfp153sbug/com.hammerandchisel.discord_318.0_und3fined.ipa","localizedDescription":"Flamingos.","iconURL":"https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/Flamingo.jpeg","tintColor":"007AFF","size":99100000,"screenshotURLs":[]},{"beta":false,"name":"Palm","bundleIdentifier":"co.palm.de","developerName":"Distributor: Umbra","subtitle":"We love palm trees.","version":"1.0.0","versionDate":"2026-03-10T00:00:00+00:00","versionDescription":"Latest update.","downloadURL":"https://filebin.net/ke1q4fhv6fry5rh7/com.roblox.robloxmobile_2.711.871_und3fined.ipa","localizedDescription":"Palms.","iconURL":"https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg","tintColor":"007AFF","size":111200000,"screenshotURLs":[]}],"news":[{"title":"Check out our GitHub","identifier":"github-check","caption":"Check out our GitHub, where you'll be able to request applications to be added!.","tintColor":"848ef9","imageURL":"https://github.com/khcrysalis/Feather/blob/v1.x/Images/donate.png?raw=true","date":"2026-03-10","url":"https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/","notify":false}]}
+{
+  "name": "SEU repository.",
+  "identifier": "com.github.DatOneFlareon",
+  "subtitle": "Enjoy!",
+  "description": "Official SEU repository.",
+  "website": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang",
+  "tintColor": "F1533E",
+  "iconURL": "https://avatars.githubusercontent.com/u/28218457?v=4",
+  "apps": [
+    {
+      "beta": false,
+      "name": "PDF Oditor",
+      "bundleIdentifier": "co.pdfoditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "This is a generic PDF oditor. It is what it's meant to be.",
+      "version": "LatestVersion.Idk",
+      "versionDate": "2026-03-06T11:36:00+02:00",
+      "versionDescription": "Latest version of the IPA file.",
+      "downloadURL": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/raw/refs/heads/main/Ipa%20file/osign.ipa",
+      "localizedDescription": "PDF oditor.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3854.jpeg",
+      "tintColor": "9b54fd",
+      "size": 15000000,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3878.jpeg"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Flamingo",
+      "bundleIdentifier": "co.flamingo.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love flamingos.",
+      "version": "1.0.0",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://filebin.net/3ist5wyfp153sbug/com.hammerandchisel.discord_318.0_und3fined.ipa",
+      "localizedDescription": "Flamingos.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/Flamingo.jpeg",
+      "tintColor": "007AFF",
+      "size": 99100000,
+      "screenshotURLs": []
+    },
+    {
+      "beta": false,
+      "name": "Palm",
+      "bundleIdentifier": "co.palm.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love palm trees.",
+      "version": "1.0.0",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://filebin.net/ke1q4fhv6fry5rh7/com.roblox.robloxmobile_2.711.871_und3fined.ipa",
+      "localizedDescription": "Palms.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 111200000,
+      "screenshotURLs": []
+    }
+  ],
+  "news": [
+    {
+      "title": "Check out our GitHub",
+      "identifier": "github-check",
+      "caption": "Check out our GitHub, where you'll be able to request applications to be added!.",
+      "tintColor": "848ef9",
+      "imageURL": "https://github.com/khcrysalis/Feather/blob/v1.x/Images/donate.png?raw=true",
+      "date": "2026-03-10",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/",
+      "notify": false
+    }
+  ]
+}
