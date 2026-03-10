@@ -27,6 +27,23 @@
     },
     {
       "beta": false,
+      "name": "Flamingo",
+      "bundleIdentifier": "co.flamingo.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love flamingos.",
+      "version": "1.0.0",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://filebin.net/3ist5wyfp153sbug/com.hammerandchisel.discord_318.0_und3fined.ipa",
+      "localizedDescription": "Flamingos.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/Flamingo.jpeg",
+      "tintColor": "007AFF",
+      "size": 99100000,
+      "screenshotURLs": [
+      ]
+    },
+    {
+      "beta": false,
       "name": "Palm",
       "bundleIdentifier": "co.palm.de",
       "developerName": "Distributor: Umbra",
