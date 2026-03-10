@@ -60,5 +60,16 @@
       ]
     }
   ]
+  "news": [
+    {
+      "title": "Check out our GitHub",
+      "identifier": "github-check",
+      "caption": "Check out our GitHub, where you'll be able to request applications to be added!.",
+      "tintColor": "848ef9",
+      "imageURL": "https://github.com/khcrysalis/Feather/blob/v1.x/Images/donate.png?raw=true",
+      "date": "2026-03-10",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/",
+      "notify": false
+    }
 }
 
