@@ -24,6 +24,24 @@
       "screenshotURLs": [
         "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3878.jpeg"
       ]
+    },
+    {
+      "beta": false,
+      "name": "Palm",
+      "bundleIdentifier": "co.palm.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love palm trees",
+      "version": "1.0.0",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Latest update for now :)",
+      "downloadURL": "https://filebin.net/ke1q4fhv6fry5rh7/com.roblox.robloxmobile_2.711.871_und3fined.ipa",
+      "localizedDescription": "deine mutter",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 4141414141,
+      "screenshotURLs": [
+      ]
     }
   ]
 }
+
