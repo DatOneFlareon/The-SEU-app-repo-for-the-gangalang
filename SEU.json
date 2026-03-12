@@ -1,5 +1,5 @@
 
-  "name": "SEU repository.",
+  "name": "SEU repository",
   "identifier": "com.github.DatOneFlareon",
   "subtitle": "Enjoy!",
   "description": "Official SEU repository.",
@@ -8,6 +8,82 @@
   "iconURL": "https://avatars.githubusercontent.com/u/264836462?s=96&v=4",
   "updateFrequency": "As soon as possible.",
   "apps": [
+    {
+      "beta": false,
+      "name": "Twitch",
+      "bundleIdentifier": "co.twitch.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Twitch, the livestream application",
+      "version": "",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/tv.twitch_28.5_und3fined.ipa",
+      "localizedDescription": "Twitch.",
+      "iconURL": "https://yt3.googleusercontent.com/BK6t9ABThYng7A2KgDb6x2XQDl1oKGos2yKmXX0_hEG6n8YQlmIU_M6sXoRDxJAQGp4VItyTOQ=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 147200000,
+      "screenshotURLs": [
+        
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Hamburger",
+      "bundleIdentifier": "co.hamburger.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "B-b-b-burger?",
+      "version": "New 🔥",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest/close to.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.psyonixllc.mesa-1.12.5-Decrypted.ipa",
+      "localizedDescription": "Twitch!.",
+      "iconURL": "https://m.media-amazon.com/images/I/21kRx-CJsUL.png",
+      "tintColor": "007AFF",
+      "size": 111800000,
+      "screenshotURLs": [
+        "https://sm.pcmag.com/pcmag_uk/review/r/rocket-lea/rocket-league-sideswipe-for-ios_qde5.jpg",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:360,width:640/output=format:webp/cmfwxqek209im08odd210tg6t",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:1080,width:1920/output=format:webp/c7JYXoU9Ss2RsRv6qsBT", 
+        "https://www.gamereactor.eu/media/65/rocketleague_3656523b.jpg",
+        "https://static.wikia.nocookie.net/rlsideswipe/images/4/4b/Sideswipe_promo_image_4.png/revision/latest?cb=20210810142453"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Delta",
+      "bundleIdentifier": "co.delta.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Delta, the Palm hack.",
+      "version": "New 🔥",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Delta-2.710.707.ipa",
+      "localizedDescription": "Delta.",
+      "iconURL": "https://m.media-amazon.com/images/I/41RtRhh9cgL.jpg",
+      "tintColor": "007AFF",
+      "size": 111800000,
+      "screenshotURLs": [
+        "https://files.bo3.gg/uploads/image/97256/image/webp-509b633ed43bbdcee0bcd4c082870adf.webp"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Scarlet",
+      "bundleIdentifier": "co.scarlet.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Scarlet, the IPA installer.",
+      "version": "New 🔥",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/Scarlet%20IOS%20y_cz5_1.0_1659961194.ipa",
+      "localizedDescription": "Scarlet.",
+      "iconURL": "https://yt3.googleusercontent.com/2d0fcgw_Gv1gtYK8J8m0Cp2kZSf9mymBHjMj67XUMfz2tfHl8MtzgYihrTxSlsASPUqyXdCV=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 31200000,
+      "screenshotURLs": [
+
+      ]
+    },
     {
       "beta": false,
       "name": "BTD 6",
