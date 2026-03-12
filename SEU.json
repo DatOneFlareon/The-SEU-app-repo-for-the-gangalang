@@ -10,6 +10,24 @@
   "apps": [
     {
       "beta": false,
+      "name": "BTD 6",
+      "bundleIdentifier": "co.BTD6.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bloonz.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/BloonsTD6.ipa",
+      "localizedDescription": "Bloons TD6.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "tintColor": "007AFF",
+      "size": 74800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
       "name": "Mysign",
       "bundleIdentifier": "co.flamingo.de",
       "developerName": "Distributor: uxp",
