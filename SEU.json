@@ -1,4 +1,4 @@
-{
+
   "name": "SEU repository.",
   "identifier": "com.github.DatOneFlareon",
   "subtitle": "Enjoy!",
@@ -8,7 +8,6 @@
   "iconURL": "https://avatars.githubusercontent.com/u/264836462?s=96&v=4",
   "updateFrequency": "As soon as possible.",
   "apps": [
-    
     {
       "beta": false,
       "name": "Mysign",
@@ -23,7 +22,9 @@
       "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1373.jpeg",
       "tintColor": "007AFF",
       "size": 24200000,
-      "screenshotURLs": []
+      "screenshotURLs": [
+
+      ]
     },
     {
       "beta": false,
@@ -57,7 +58,9 @@
       "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/Flamingo.jpeg",
       "tintColor": "007AFF",
       "size": 99100000,
-      "screenshotURLs": []
+      "screenshotURLs": [
+
+      ]
     },
     {
       "beta": false,
@@ -73,7 +76,9 @@
       "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
       "tintColor": "007AFF",
       "size": 145100000,
-      "screenshotURLs": []
+      "screenshotURLs": [
+
+      ]
     },
     {
       "beta": false,
@@ -89,7 +94,27 @@
       "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1405.jpeg",
       "tintColor": "007AFF",
       "size": 111200000,
-      "screenshotURLs": []
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Editor",
+      "bundleIdentifier": "co.PDFEditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love PDF editing.",
+      "version": "New 🔥",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://bitbucket.org/datoneflareon/ipa-files-for-the-gangalang/downloads/esign_5.0.2_unsigned.ipa",
+      "localizedDescription": "Editing PDFs",
+      "iconURL": "https://bitbucket.org/datoneflareon/ipa-files-for-the-gangalang/downloads/IMG_3859.png",
+      "tintColor": "007AFF",
+      "size": 4500444,
+      "screenshotURLs": [
+
+      ]
     }
   ],
   "news": [
