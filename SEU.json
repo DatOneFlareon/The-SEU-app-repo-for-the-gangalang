@@ -10,6 +10,24 @@
   "apps": [
     {
       "beta": false,
+      "name": "Leaf blower",
+      "bundleIdentifier": "co.lebl.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Leaf blower, game.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Feather.ipa",
+      "localizedDescription": "Leaf blower.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1493.webp",
+      "tintColor": "007AFF",
+      "size": 49300000,
+      "screenshotURLs": [
+        
+      ]
+    },
+    {
+      "beta": false,
       "name": "Bird",
       "bundleIdentifier": "co.Bird.de",
       "developerName": "Distributor: uxp",
@@ -17,7 +35,7 @@
       "version": "New 🔥",
       "versionDate": "2026-03-13T00:00:00+00:00",
       "versionDescription": "Latest.",
-      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Feather.ipa",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.ezplugins.leafblowerrevolution_v2.29.5_und3fined.ipa",
       "localizedDescription": "Bird.",
       "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1488.jpeg",
       "tintColor": "007AFF",
