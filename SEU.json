@@ -10,11 +10,29 @@
   "apps": [
     {
       "beta": false,
+      "name": "Bird",
+      "bundleIdentifier": "co.Bird.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bird, if you know you know.",
+      "version": "New 🔥",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Feather.ipa",
+      "localizedDescription": "Bird.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1488.jpeg",
+      "tintColor": "007AFF",
+      "size": 14100000,
+      "screenshotURLs": [
+        
+      ]
+    },
+    {
+      "beta": false,
       "name": "Twitch",
       "bundleIdentifier": "co.twitch.de",
       "developerName": "Distributor: uxp",
       "subtitle": "Twitch, the livestream application",
-      "version": "",
+      "version": "New 🔥",
       "versionDate": "2026-03-12T00:00:00+00:00",
       "versionDescription": "Latest.",
       "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/tv.twitch_28.5_und3fined.ipa",
