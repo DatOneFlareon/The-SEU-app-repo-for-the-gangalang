@@ -1,6 +1,6 @@
 # The official SEU repository GitHub page.
 
-> **Request for new apps to be added with an issue request.**
+> **Request for new apps to be added or report problems with an issue request.**
 > 
 > Better ways of requesting coming soon,
 >
