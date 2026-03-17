@@ -293,6 +293,16 @@
       "date": "2026-03-10",
       "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/",
       "notify": false
+    },
+    {
+      "title": "Credits + Reports ⚠️",
+      "identifier": "github-credits",
+      "caption": "Credits to @DatOneFlareon and @uxp70, create an issue with the button below to report bugs. ",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "date": "2026-03-17",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/issues",
+      "notify": false
     }
   ]
 }
