@@ -23,7 +23,7 @@
       "tintColor": "007AFF",
       "size": 49300000,
       "screenshotURLs": [
-        
+
       ]
     },
     {
@@ -41,7 +41,7 @@
       "tintColor": "007AFF",
       "size": 14100000,
       "screenshotURLs": [
-        
+
       ]
     },
     {
@@ -59,7 +59,7 @@
       "tintColor": "007AFF",
       "size": 147200000,
       "screenshotURLs": [
-        
+
       ]
     },
     {
@@ -79,7 +79,7 @@
       "screenshotURLs": [
         "https://sm.pcmag.com/pcmag_uk/review/r/rocket-lea/rocket-league-sideswipe-for-ios_qde5.jpg",
         "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:360,width:640/output=format:webp/cmfwxqek209im08odd210tg6t",
-        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:1080,width:1920/output=format:webp/c7JYXoU9Ss2RsRv6qsBT", 
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:1080,width:1920/output=format:webp/c7JYXoU9Ss2RsRv6qsBT",
         "https://www.gamereactor.eu/media/65/rocketleague_3656523b.jpg",
         "https://static.wikia.nocookie.net/rlsideswipe/images/4/4b/Sideswipe_promo_image_4.png/revision/latest?cb=20210810142453"
       ]
@@ -240,6 +240,24 @@
       "downloadURL": "https://archive.org/download/bloons-td-6_202603/esign_5.0.2_unsigned.ipa",
       "localizedDescription": "Editing PDFs",
       "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1487.jpeg",
+      "tintColor": "007AFF",
+      "size": 7500000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "HaxFlix",
+      "bundleIdentifier": "co.netflixhax.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love Modded Apps.",
+      "version": "New 🔥",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/netflix-3.0/Netflix-3.0.ipa",
+      "localizedDescription": "Modded Netflix lmao",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3901.jpeg",
       "tintColor": "007AFF",
       "size": 7500000,
       "screenshotURLs": [
