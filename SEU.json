@@ -10,6 +10,42 @@
   "apps": [
     {
       "beta": false,
+      "name": "Sigmaclip",
+      "bundleIdentifier": "co.flipa.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "New 🔥",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/FlipaClip_Create_2D_Animation-v4.1.1-ipaomtk.com.ipa",
+      "localizedDescription": "Modded flipa",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1454.webp",
+      "tintColor": "007AFF",
+      "size": 64600000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "HaxFlix",
+      "bundleIdentifier": "co.netflixhax.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love Modded Apps.",
+      "version": "New 🔥",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/netflix-3.0/Netflix-3.0.ipa",
+      "localizedDescription": "Modded Netflix lmao",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3901.jpeg",
+      "tintColor": "007AFF",
+      "size": 34800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
       "name": "Leaf blower",
       "bundleIdentifier": "co.lebl.de",
       "developerName": "Distributor: uxp",
@@ -242,24 +278,6 @@
       "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1487.jpeg",
       "tintColor": "007AFF",
       "size": 7500000,
-      "screenshotURLs": [
-
-      ]
-    },
-    {
-      "beta": false,
-      "name": "HaxFlix",
-      "bundleIdentifier": "co.netflixhax.de",
-      "developerName": "Distributor: Umbra",
-      "subtitle": "We love Modded Apps.",
-      "version": "New 🔥",
-      "versionDate": "2026-03-13T00:00:00+00:00",
-      "versionDescription": "Latest update.",
-      "downloadURL": "https://archive.org/download/netflix-3.0/Netflix-3.0.ipa",
-      "localizedDescription": "Modded Netflix lmao",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3901.jpeg",
-      "tintColor": "007AFF",
-      "size": 34800000,
       "screenshotURLs": [
 
       ]
