@@ -8,7 +8,7 @@
   "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/Seu%20logo.png",
   "updateFrequency": "As soon as possible.",
   "apps": [
-       {
+    {
       "beta": false,
       "name": "blockb",
       "bundleIdentifier": "co.bb.de",
@@ -22,6 +22,24 @@
       "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1374.jpeg",
       "tintColor": "007AFF",
       "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Haxtube",
+      "bundleIdentifier": "co.ytmod.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, Tested",
+      "version": "New ✨",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/you-tube-oled-ipaomtk.com/YouTube-OLED-IPAOMTK.com.ipa",
+      "localizedDescription": "Modded yt.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765,
       "screenshotURLs": [
 
       ]
@@ -195,7 +213,7 @@
     {
       "beta": false,
       "name": "Mysign",
-      "bundleIdentifier": "co.flamingo.de",
+      "bundleIdentifier": "co.mysign.de",
       "developerName": "Distributor: uxp",
       "subtitle": "Mysign.",
       "version": "New 🔥",
