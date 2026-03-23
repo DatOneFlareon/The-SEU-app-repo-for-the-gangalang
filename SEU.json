@@ -46,6 +46,24 @@
     },
     {
       "beta": false,
+      "name": "CrunchyHax",
+      "bundleIdentifier": "co.moddedcrunchyroll.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, due for testing",
+      "version": "New ✨",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/https://archive.org/download/crunchyroll-ipaomtk.com/crunchyroll-ipaomtk.com.ipa",
+      "localizedDescription": "Modded yt.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3923.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
       "name": "Sigmaclip",
       "bundleIdentifier": "co.flipa.de",
       "developerName": "Distributor: uxp",
