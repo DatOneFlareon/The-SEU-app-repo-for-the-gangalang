@@ -28,6 +28,2014 @@
     },
     {
       "beta": false,
+      "name": "Craft Dig",
+      "bundleIdentifier": "co.CraftDig.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/minecraft-tutuipa.com-mod-2/Minecraft_tutuipa.com-mod2.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3953.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Duohacker",
+      "bundleIdentifier": "co.moddedduolingo.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/duolingo-language-lessons-ipaomtk.com/Duolingo_Language_Lessons_IPAOMTK.com.ipa",
+      "localizedDescription": "Modded bb.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3291.png",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Haxtube",
+      "bundleIdentifier": "co.ytmod.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, Tested",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/you-tube-oled-ipaomtk.com/YouTube-OLED-IPAOMTK.com.ipa",
+      "localizedDescription": "Modded yt.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "CrunchyHax",
+      "bundleIdentifier": "co.moddedcrunchyroll.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, due for testing",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/crunchyroll-ipaomtk.com/crunchyroll-ipaomtk.com.ipa",
+      "localizedDescription": "Modded Crunchyroll.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3923.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Sigmaclip",
+      "bundleIdentifier": "co.flipa.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/FlipaClip_Create_2D_Animation-v4.1.1-ipaomtk.com.ipa",
+      "localizedDescription": "Modded flipa",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1454.webp",
+      "tintColor": "007AFF",
+      "size": 64600000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "HaxFlix",
+      "bundleIdentifier": "co.netflixhax.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love Modded Apps.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/netflix-3.0/Netflix-3.0.ipa",
+      "localizedDescription": "Modded Netflix lmao",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3901.jpeg",
+      "tintColor": "007AFF",
+      "size": 34800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Leaf blower",
+      "bundleIdentifier": "co.lebl.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Leaf blower, game.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.ezplugins.leafblowerrevolution_v2.29.5_und3fined.ipa",
+      "localizedDescription": "Leaf blower.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1493.webp",
+      "tintColor": "007AFF",
+      "size": 49300000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Bird",
+      "bundleIdentifier": "co.Bird.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bird, if you know you know.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Feather.ipa",
+      "localizedDescription": "Bird.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1488.jpeg",
+      "tintColor": "007AFF",
+      "size": 14100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Twitch",
+      "bundleIdentifier": "co.twitch.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Twitch, the livestream application",
+      "version": "Fun 😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/tv.twitch_28.5_und3fined.ipa",
+      "localizedDescription": "Twitch.",
+      "iconURL": "https://yt3.googleusercontent.com/BK6t9ABThYng7A2KgDb6x2XQDl1oKGos2yKmXX0_hEG6n8YQlmIU_M6sXoRDxJAQGp4VItyTOQ=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 147200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Hamburger",
+      "bundleIdentifier": "co.hamburger.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "B-b-b-burger?",
+      "version": "Fun 😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest/close to.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.psyonixllc.mesa-1.12.5-Decrypted.ipa",
+      "localizedDescription": "Burger.",
+      "iconURL": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Hamburger-april-new-image:nutrition-calculator-tile?wid=822&hei=822&dpr=off",
+      "tintColor": "007AFF",
+      "size": 1100000000,
+      "screenshotURLs": [
+        "https://sm.pcmag.com/pcmag_uk/review/r/rocket-lea/rocket-league-sideswipe-for-ios_qde5.jpg",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:360,width:640/output=format:webp/cmfwxqek209im08odd210tg6t",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:1080,width:1920/output=format:webp/c7JYXoU9Ss2RsRv6qsBT",
+        "https://www.gamereactor.eu/media/65/rocketleague_3656523b.jpg",
+        "https://static.wikia.nocookie.net/rlsideswipe/images/4/4b/Sideswipe_promo_image_4.png/revision/latest?cb=20210810142453"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Delta",
+      "bundleIdentifier": "co.delta.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Delta, the Palm hack.",
+      "version": "Fun😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Delta-2.710.707.ipa",
+      "localizedDescription": "Delta.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1456.jpeg",
+      "tintColor": "007AFF",
+      "size": 111800000,
+      "screenshotURLs": [
+        "https://files.bo3.gg/uploads/image/97256/image/webp-509b633ed43bbdcee0bcd4c082870adf.webp"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Scarlet",
+      "bundleIdentifier": "co.scarlet.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Scarlet, the IPA installer.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/Scarlet%20IOS%20y_cz5_1.0_1659961194.ipa",
+      "localizedDescription": "Scarlet.",
+      "iconURL": "https://yt3.googleusercontent.com/2d0fcgw_Gv1gtYK8J8m0Cp2kZSf9mymBHjMj67XUMfz2tfHl8MtzgYihrTxSlsASPUqyXdCV=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 31200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "BTD 6",
+      "bundleIdentifier": "co.BTD6.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bloonz.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/BloonsTD6.ipa",
+      "localizedDescription": "Bloons TD6.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "tintColor": "007AFF",
+      "size": 74800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Mysign",
+      "bundleIdentifier": "co.mysign.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Mysign.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-11T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/mysignipasigner.ipa",
+      "localizedDescription": "Mysign IPA signer.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1373.jpeg",
+      "tintColor": "007AFF",
+      "size": 24200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Oditor",
+      "bundleIdentifier": "co.pdfoditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "This is a generic PDF oditor. It is what it's meant to be.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-06T11:36:00+02:00",
+      "versionDescription": "Latest version of the IPA file.",
+      "downloadURL": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/raw/refs/heads/main/Ipa%20file/osign.ipa",
+      "localizedDescription": "PDF oditor.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3854.jpeg",
+      "tintColor": "9b54fd",
+      "size": 15000000,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3878.jpeg"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Flamingo",
+      "bundleIdentifier": "co.flamingo.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love flamingos.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/com.hammerandchisel.discord_318.0_und3fined.ipa",
+      "localizedDescription": "Flamingos.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/Flamingo.jpeg",
+      "tintColor": "007AFF",
+      "size": 99100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Palm",
+      "bundleIdentifier": "co.palm.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love palm trees.",
+      "version": "Updated ✅",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/com.roblox.robloxmobile_2.715.1115_und3fined/com.roblox.robloxmobile_2.715.1115_und3fined.ipa",
+      "localizedDescription": "Palms.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 145100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "CapCut Pro.",
+      "bundleIdentifier": "co.cappy.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love cappy.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/CapCut-2-IPAOMTK.COM_2.ipa",
+      "localizedDescription": "Cappy.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1405.jpeg",
+      "tintColor": "007AFF",
+      "size": 111200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Editor",
+      "bundleIdentifier": "co.PDFEditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love PDF editing.",
+      "version": "Fixed 🔧",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/esign_5.0.2_unsigned.ipa",
+      "localizedDescription": "Editing PDFs",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1487.jpeg",
+      "tintColor": "007AFF",
+      "size": 7500000,
+      "screenshotURLs": [
+
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Check out our GitHub",
+      "identifier": "github-check",
+      "caption": "Check out our GitHub, where you'll be able to request applications to be added! 😎",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/placeholder.jpeg",
+      "date": "2026-03-10",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/",
+      "notify": false
+    },
+    {
+      "title": "Credits + Reports ⚠️",
+      "identifier": "github-credits",
+      "caption": "Credits to @DatOneFlareon and @uxp70, create an issue with the button below to report bugs. ",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "date": "2026-03-17",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/issues",
+      "notify": false
+    }
+  ]
+}
+{
+  "name": "SEU repository",
+  "identifier": "com.github.DatOneFlareon",
+  "subtitle": "Enjoy!",
+  "description": "Official SEU repository.",
+  "website": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang",
+  "tintColor": "F1533E",
+  "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/Seu%20logo.png",
+  "updateFrequency": "As soon as possible.",
+  "apps": [
+    {
+      "beta": false,
+      "name": "blockb",
+      "bundleIdentifier": "co.bb.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Block-Blast-IPAOMTK.COM.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1374.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Craft Dig",
+      "bundleIdentifier": "co.CraftDig.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/minecraft-tutuipa.com-mod-2/Minecraft_tutuipa.com-mod2.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3953.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Duohacker",
+      "bundleIdentifier": "co.moddedduolingo.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/duolingo-language-lessons-ipaomtk.com/Duolingo_Language_Lessons_IPAOMTK.com.ipa",
+      "localizedDescription": "Modded bb.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3291.png",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Haxtube",
+      "bundleIdentifier": "co.ytmod.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, Tested",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/you-tube-oled-ipaomtk.com/YouTube-OLED-IPAOMTK.com.ipa",
+      "localizedDescription": "Modded yt.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "CrunchyHax",
+      "bundleIdentifier": "co.moddedcrunchyroll.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, due for testing",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/crunchyroll-ipaomtk.com/crunchyroll-ipaomtk.com.ipa",
+      "localizedDescription": "Modded Crunchyroll.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3923.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Sigmaclip",
+      "bundleIdentifier": "co.flipa.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/FlipaClip_Create_2D_Animation-v4.1.1-ipaomtk.com.ipa",
+      "localizedDescription": "Modded flipa",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1454.webp",
+      "tintColor": "007AFF",
+      "size": 64600000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "HaxFlix",
+      "bundleIdentifier": "co.netflixhax.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love Modded Apps.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/netflix-3.0/Netflix-3.0.ipa",
+      "localizedDescription": "Modded Netflix lmao",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3901.jpeg",
+      "tintColor": "007AFF",
+      "size": 34800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Leaf blower",
+      "bundleIdentifier": "co.lebl.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Leaf blower, game.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.ezplugins.leafblowerrevolution_v2.29.5_und3fined.ipa",
+      "localizedDescription": "Leaf blower.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1493.webp",
+      "tintColor": "007AFF",
+      "size": 49300000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Bird",
+      "bundleIdentifier": "co.Bird.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bird, if you know you know.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Feather.ipa",
+      "localizedDescription": "Bird.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1488.jpeg",
+      "tintColor": "007AFF",
+      "size": 14100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Twitch",
+      "bundleIdentifier": "co.twitch.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Twitch, the livestream application",
+      "version": "Fun 😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/tv.twitch_28.5_und3fined.ipa",
+      "localizedDescription": "Twitch.",
+      "iconURL": "https://yt3.googleusercontent.com/BK6t9ABThYng7A2KgDb6x2XQDl1oKGos2yKmXX0_hEG6n8YQlmIU_M6sXoRDxJAQGp4VItyTOQ=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 147200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Hamburger",
+      "bundleIdentifier": "co.hamburger.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "B-b-b-burger?",
+      "version": "Fun 😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest/close to.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.psyonixllc.mesa-1.12.5-Decrypted.ipa",
+      "localizedDescription": "Burger.",
+      "iconURL": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Hamburger-april-new-image:nutrition-calculator-tile?wid=822&hei=822&dpr=off",
+      "tintColor": "007AFF",
+      "size": 1100000000,
+      "screenshotURLs": [
+        "https://sm.pcmag.com/pcmag_uk/review/r/rocket-lea/rocket-league-sideswipe-for-ios_qde5.jpg",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:360,width:640/output=format:webp/cmfwxqek209im08odd210tg6t",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:1080,width:1920/output=format:webp/c7JYXoU9Ss2RsRv6qsBT",
+        "https://www.gamereactor.eu/media/65/rocketleague_3656523b.jpg",
+        "https://static.wikia.nocookie.net/rlsideswipe/images/4/4b/Sideswipe_promo_image_4.png/revision/latest?cb=20210810142453"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Delta",
+      "bundleIdentifier": "co.delta.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Delta, the Palm hack.",
+      "version": "Fun😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Delta-2.710.707.ipa",
+      "localizedDescription": "Delta.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1456.jpeg",
+      "tintColor": "007AFF",
+      "size": 111800000,
+      "screenshotURLs": [
+        "https://files.bo3.gg/uploads/image/97256/image/webp-509b633ed43bbdcee0bcd4c082870adf.webp"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Scarlet",
+      "bundleIdentifier": "co.scarlet.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Scarlet, the IPA installer.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/Scarlet%20IOS%20y_cz5_1.0_1659961194.ipa",
+      "localizedDescription": "Scarlet.",
+      "iconURL": "https://yt3.googleusercontent.com/2d0fcgw_Gv1gtYK8J8m0Cp2kZSf9mymBHjMj67XUMfz2tfHl8MtzgYihrTxSlsASPUqyXdCV=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 31200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "BTD 6",
+      "bundleIdentifier": "co.BTD6.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bloonz.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/BloonsTD6.ipa",
+      "localizedDescription": "Bloons TD6.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "tintColor": "007AFF",
+      "size": 74800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Mysign",
+      "bundleIdentifier": "co.mysign.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Mysign.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-11T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/mysignipasigner.ipa",
+      "localizedDescription": "Mysign IPA signer.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1373.jpeg",
+      "tintColor": "007AFF",
+      "size": 24200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Oditor",
+      "bundleIdentifier": "co.pdfoditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "This is a generic PDF oditor. It is what it's meant to be.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-06T11:36:00+02:00",
+      "versionDescription": "Latest version of the IPA file.",
+      "downloadURL": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/raw/refs/heads/main/Ipa%20file/osign.ipa",
+      "localizedDescription": "PDF oditor.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3854.jpeg",
+      "tintColor": "9b54fd",
+      "size": 15000000,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3878.jpeg"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Flamingo",
+      "bundleIdentifier": "co.flamingo.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love flamingos.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/com.hammerandchisel.discord_318.0_und3fined.ipa",
+      "localizedDescription": "Flamingos.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/Flamingo.jpeg",
+      "tintColor": "007AFF",
+      "size": 99100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Palm",
+      "bundleIdentifier": "co.palm.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love palm trees.",
+      "version": "Updated ✅",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/com.roblox.robloxmobile_2.715.1115_und3fined/com.roblox.robloxmobile_2.715.1115_und3fined.ipa",
+      "localizedDescription": "Palms.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 145100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "CapCut Pro.",
+      "bundleIdentifier": "co.cappy.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love cappy.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/CapCut-2-IPAOMTK.COM_2.ipa",
+      "localizedDescription": "Cappy.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1405.jpeg",
+      "tintColor": "007AFF",
+      "size": 111200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Editor",
+      "bundleIdentifier": "co.PDFEditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love PDF editing.",
+      "version": "Fixed 🔧",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/esign_5.0.2_unsigned.ipa",
+      "localizedDescription": "Editing PDFs",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1487.jpeg",
+      "tintColor": "007AFF",
+      "size": 7500000,
+      "screenshotURLs": [
+
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Check out our GitHub",
+      "identifier": "github-check",
+      "caption": "Check out our GitHub, where you'll be able to request applications to be added! 😎",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/placeholder.jpeg",
+      "date": "2026-03-10",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/",
+      "notify": false
+    },
+    {
+      "title": "Credits + Reports ⚠️",
+      "identifier": "github-credits",
+      "caption": "Credits to @DatOneFlareon and @uxp70, create an issue with the button below to report bugs. ",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "date": "2026-03-17",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/issues",
+      "notify": false
+    }
+  ]
+}
+{
+  "name": "SEU repository",
+  "identifier": "com.github.DatOneFlareon",
+  "subtitle": "Enjoy!",
+  "description": "Official SEU repository.",
+  "website": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang",
+  "tintColor": "F1533E",
+  "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/Seu%20logo.png",
+  "updateFrequency": "As soon as possible.",
+  "apps": [
+    {
+      "beta": false,
+      "name": "blockb",
+      "bundleIdentifier": "co.bb.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Block-Blast-IPAOMTK.COM.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1374.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Craft Dig",
+      "bundleIdentifier": "co.CraftDig.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/minecraft-tutuipa.com-mod-2/Minecraft_tutuipa.com-mod2.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3953.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Duohacker",
+      "bundleIdentifier": "co.moddedduolingo.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/duolingo-language-lessons-ipaomtk.com/Duolingo_Language_Lessons_IPAOMTK.com.ipa",
+      "localizedDescription": "Modded bb.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3291.png",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Haxtube",
+      "bundleIdentifier": "co.ytmod.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, Tested",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/you-tube-oled-ipaomtk.com/YouTube-OLED-IPAOMTK.com.ipa",
+      "localizedDescription": "Modded yt.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "CrunchyHax",
+      "bundleIdentifier": "co.moddedcrunchyroll.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, due for testing",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/crunchyroll-ipaomtk.com/crunchyroll-ipaomtk.com.ipa",
+      "localizedDescription": "Modded Crunchyroll.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3923.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Sigmaclip",
+      "bundleIdentifier": "co.flipa.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/FlipaClip_Create_2D_Animation-v4.1.1-ipaomtk.com.ipa",
+      "localizedDescription": "Modded flipa",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1454.webp",
+      "tintColor": "007AFF",
+      "size": 64600000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "HaxFlix",
+      "bundleIdentifier": "co.netflixhax.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love Modded Apps.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/netflix-3.0/Netflix-3.0.ipa",
+      "localizedDescription": "Modded Netflix lmao",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3901.jpeg",
+      "tintColor": "007AFF",
+      "size": 34800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Leaf blower",
+      "bundleIdentifier": "co.lebl.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Leaf blower, game.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.ezplugins.leafblowerrevolution_v2.29.5_und3fined.ipa",
+      "localizedDescription": "Leaf blower.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1493.webp",
+      "tintColor": "007AFF",
+      "size": 49300000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Bird",
+      "bundleIdentifier": "co.Bird.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bird, if you know you know.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Feather.ipa",
+      "localizedDescription": "Bird.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1488.jpeg",
+      "tintColor": "007AFF",
+      "size": 14100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Twitch",
+      "bundleIdentifier": "co.twitch.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Twitch, the livestream application",
+      "version": "Fun 😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/tv.twitch_28.5_und3fined.ipa",
+      "localizedDescription": "Twitch.",
+      "iconURL": "https://yt3.googleusercontent.com/BK6t9ABThYng7A2KgDb6x2XQDl1oKGos2yKmXX0_hEG6n8YQlmIU_M6sXoRDxJAQGp4VItyTOQ=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 147200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Hamburger",
+      "bundleIdentifier": "co.hamburger.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "B-b-b-burger?",
+      "version": "Fun 😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest/close to.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.psyonixllc.mesa-1.12.5-Decrypted.ipa",
+      "localizedDescription": "Burger.",
+      "iconURL": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Hamburger-april-new-image:nutrition-calculator-tile?wid=822&hei=822&dpr=off",
+      "tintColor": "007AFF",
+      "size": 1100000000,
+      "screenshotURLs": [
+        "https://sm.pcmag.com/pcmag_uk/review/r/rocket-lea/rocket-league-sideswipe-for-ios_qde5.jpg",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:360,width:640/output=format:webp/cmfwxqek209im08odd210tg6t",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:1080,width:1920/output=format:webp/c7JYXoU9Ss2RsRv6qsBT",
+        "https://www.gamereactor.eu/media/65/rocketleague_3656523b.jpg",
+        "https://static.wikia.nocookie.net/rlsideswipe/images/4/4b/Sideswipe_promo_image_4.png/revision/latest?cb=20210810142453"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Delta",
+      "bundleIdentifier": "co.delta.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Delta, the Palm hack.",
+      "version": "Fun😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Delta-2.710.707.ipa",
+      "localizedDescription": "Delta.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1456.jpeg",
+      "tintColor": "007AFF",
+      "size": 111800000,
+      "screenshotURLs": [
+        "https://files.bo3.gg/uploads/image/97256/image/webp-509b633ed43bbdcee0bcd4c082870adf.webp"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Scarlet",
+      "bundleIdentifier": "co.scarlet.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Scarlet, the IPA installer.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/Scarlet%20IOS%20y_cz5_1.0_1659961194.ipa",
+      "localizedDescription": "Scarlet.",
+      "iconURL": "https://yt3.googleusercontent.com/2d0fcgw_Gv1gtYK8J8m0Cp2kZSf9mymBHjMj67XUMfz2tfHl8MtzgYihrTxSlsASPUqyXdCV=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 31200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "BTD 6",
+      "bundleIdentifier": "co.BTD6.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bloonz.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/BloonsTD6.ipa",
+      "localizedDescription": "Bloons TD6.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "tintColor": "007AFF",
+      "size": 74800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Mysign",
+      "bundleIdentifier": "co.mysign.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Mysign.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-11T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/mysignipasigner.ipa",
+      "localizedDescription": "Mysign IPA signer.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1373.jpeg",
+      "tintColor": "007AFF",
+      "size": 24200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Oditor",
+      "bundleIdentifier": "co.pdfoditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "This is a generic PDF oditor. It is what it's meant to be.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-06T11:36:00+02:00",
+      "versionDescription": "Latest version of the IPA file.",
+      "downloadURL": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/raw/refs/heads/main/Ipa%20file/osign.ipa",
+      "localizedDescription": "PDF oditor.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3854.jpeg",
+      "tintColor": "9b54fd",
+      "size": 15000000,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3878.jpeg"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Flamingo",
+      "bundleIdentifier": "co.flamingo.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love flamingos.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/com.hammerandchisel.discord_318.0_und3fined.ipa",
+      "localizedDescription": "Flamingos.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/Flamingo.jpeg",
+      "tintColor": "007AFF",
+      "size": 99100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Palm",
+      "bundleIdentifier": "co.palm.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love palm trees.",
+      "version": "Updated ✅",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/com.roblox.robloxmobile_2.715.1115_und3fined/com.roblox.robloxmobile_2.715.1115_und3fined.ipa",
+      "localizedDescription": "Palms.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 145100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "CapCut Pro.",
+      "bundleIdentifier": "co.cappy.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love cappy.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/CapCut-2-IPAOMTK.COM_2.ipa",
+      "localizedDescription": "Cappy.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1405.jpeg",
+      "tintColor": "007AFF",
+      "size": 111200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Editor",
+      "bundleIdentifier": "co.PDFEditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love PDF editing.",
+      "version": "Fixed 🔧",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/esign_5.0.2_unsigned.ipa",
+      "localizedDescription": "Editing PDFs",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1487.jpeg",
+      "tintColor": "007AFF",
+      "size": 7500000,
+      "screenshotURLs": [
+
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Check out our GitHub",
+      "identifier": "github-check",
+      "caption": "Check out our GitHub, where you'll be able to request applications to be added! 😎",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/placeholder.jpeg",
+      "date": "2026-03-10",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/",
+      "notify": false
+    },
+    {
+      "title": "Credits + Reports ⚠️",
+      "identifier": "github-credits",
+      "caption": "Credits to @DatOneFlareon and @uxp70, create an issue with the button below to report bugs. ",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "date": "2026-03-17",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/issues",
+      "notify": false
+    }
+  ]
+}
+{
+  "name": "SEU repository",
+  "identifier": "com.github.DatOneFlareon",
+  "subtitle": "Enjoy!",
+  "description": "Official SEU repository.",
+  "website": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang",
+  "tintColor": "F1533E",
+  "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/Seu%20logo.png",
+  "updateFrequency": "As soon as possible.",
+  "apps": [
+    {
+      "beta": false,
+      "name": "blockb",
+      "bundleIdentifier": "co.bb.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Block-Blast-IPAOMTK.COM.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1374.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Craft Dig",
+      "bundleIdentifier": "co.CraftDig.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/minecraft-tutuipa.com-mod-2/Minecraft_tutuipa.com-mod2.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3953.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Duohacker",
+      "bundleIdentifier": "co.moddedduolingo.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/duolingo-language-lessons-ipaomtk.com/Duolingo_Language_Lessons_IPAOMTK.com.ipa",
+      "localizedDescription": "Modded bb.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3291.png",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Haxtube",
+      "bundleIdentifier": "co.ytmod.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, Tested",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/you-tube-oled-ipaomtk.com/YouTube-OLED-IPAOMTK.com.ipa",
+      "localizedDescription": "Modded yt.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "CrunchyHax",
+      "bundleIdentifier": "co.moddedcrunchyroll.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, due for testing",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/crunchyroll-ipaomtk.com/crunchyroll-ipaomtk.com.ipa",
+      "localizedDescription": "Modded Crunchyroll.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3923.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Sigmaclip",
+      "bundleIdentifier": "co.flipa.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/FlipaClip_Create_2D_Animation-v4.1.1-ipaomtk.com.ipa",
+      "localizedDescription": "Modded flipa",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1454.webp",
+      "tintColor": "007AFF",
+      "size": 64600000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "HaxFlix",
+      "bundleIdentifier": "co.netflixhax.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love Modded Apps.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/netflix-3.0/Netflix-3.0.ipa",
+      "localizedDescription": "Modded Netflix lmao",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3901.jpeg",
+      "tintColor": "007AFF",
+      "size": 34800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Leaf blower",
+      "bundleIdentifier": "co.lebl.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Leaf blower, game.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.ezplugins.leafblowerrevolution_v2.29.5_und3fined.ipa",
+      "localizedDescription": "Leaf blower.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1493.webp",
+      "tintColor": "007AFF",
+      "size": 49300000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Bird",
+      "bundleIdentifier": "co.Bird.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bird, if you know you know.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Feather.ipa",
+      "localizedDescription": "Bird.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1488.jpeg",
+      "tintColor": "007AFF",
+      "size": 14100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Twitch",
+      "bundleIdentifier": "co.twitch.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Twitch, the livestream application",
+      "version": "Fun 😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/tv.twitch_28.5_und3fined.ipa",
+      "localizedDescription": "Twitch.",
+      "iconURL": "https://yt3.googleusercontent.com/BK6t9ABThYng7A2KgDb6x2XQDl1oKGos2yKmXX0_hEG6n8YQlmIU_M6sXoRDxJAQGp4VItyTOQ=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 147200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Hamburger",
+      "bundleIdentifier": "co.hamburger.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "B-b-b-burger?",
+      "version": "Fun 😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest/close to.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.psyonixllc.mesa-1.12.5-Decrypted.ipa",
+      "localizedDescription": "Burger.",
+      "iconURL": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Hamburger-april-new-image:nutrition-calculator-tile?wid=822&hei=822&dpr=off",
+      "tintColor": "007AFF",
+      "size": 1100000000,
+      "screenshotURLs": [
+        "https://sm.pcmag.com/pcmag_uk/review/r/rocket-lea/rocket-league-sideswipe-for-ios_qde5.jpg",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:360,width:640/output=format:webp/cmfwxqek209im08odd210tg6t",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:1080,width:1920/output=format:webp/c7JYXoU9Ss2RsRv6qsBT",
+        "https://www.gamereactor.eu/media/65/rocketleague_3656523b.jpg",
+        "https://static.wikia.nocookie.net/rlsideswipe/images/4/4b/Sideswipe_promo_image_4.png/revision/latest?cb=20210810142453"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Delta",
+      "bundleIdentifier": "co.delta.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Delta, the Palm hack.",
+      "version": "Fun😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Delta-2.710.707.ipa",
+      "localizedDescription": "Delta.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1456.jpeg",
+      "tintColor": "007AFF",
+      "size": 111800000,
+      "screenshotURLs": [
+        "https://files.bo3.gg/uploads/image/97256/image/webp-509b633ed43bbdcee0bcd4c082870adf.webp"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Scarlet",
+      "bundleIdentifier": "co.scarlet.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Scarlet, the IPA installer.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/Scarlet%20IOS%20y_cz5_1.0_1659961194.ipa",
+      "localizedDescription": "Scarlet.",
+      "iconURL": "https://yt3.googleusercontent.com/2d0fcgw_Gv1gtYK8J8m0Cp2kZSf9mymBHjMj67XUMfz2tfHl8MtzgYihrTxSlsASPUqyXdCV=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 31200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "BTD 6",
+      "bundleIdentifier": "co.BTD6.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bloonz.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/BloonsTD6.ipa",
+      "localizedDescription": "Bloons TD6.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "tintColor": "007AFF",
+      "size": 74800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Mysign",
+      "bundleIdentifier": "co.mysign.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Mysign.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-11T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/mysignipasigner.ipa",
+      "localizedDescription": "Mysign IPA signer.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1373.jpeg",
+      "tintColor": "007AFF",
+      "size": 24200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Oditor",
+      "bundleIdentifier": "co.pdfoditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "This is a generic PDF oditor. It is what it's meant to be.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-06T11:36:00+02:00",
+      "versionDescription": "Latest version of the IPA file.",
+      "downloadURL": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/raw/refs/heads/main/Ipa%20file/osign.ipa",
+      "localizedDescription": "PDF oditor.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3854.jpeg",
+      "tintColor": "9b54fd",
+      "size": 15000000,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3878.jpeg"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Flamingo",
+      "bundleIdentifier": "co.flamingo.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love flamingos.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/com.hammerandchisel.discord_318.0_und3fined.ipa",
+      "localizedDescription": "Flamingos.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/Flamingo.jpeg",
+      "tintColor": "007AFF",
+      "size": 99100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Palm",
+      "bundleIdentifier": "co.palm.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love palm trees.",
+      "version": "Updated ✅",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/com.roblox.robloxmobile_2.715.1115_und3fined/com.roblox.robloxmobile_2.715.1115_und3fined.ipa",
+      "localizedDescription": "Palms.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 145100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "CapCut Pro.",
+      "bundleIdentifier": "co.cappy.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love cappy.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/CapCut-2-IPAOMTK.COM_2.ipa",
+      "localizedDescription": "Cappy.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1405.jpeg",
+      "tintColor": "007AFF",
+      "size": 111200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Editor",
+      "bundleIdentifier": "co.PDFEditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love PDF editing.",
+      "version": "Fixed 🔧",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/esign_5.0.2_unsigned.ipa",
+      "localizedDescription": "Editing PDFs",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1487.jpeg",
+      "tintColor": "007AFF",
+      "size": 7500000,
+      "screenshotURLs": [
+
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Check out our GitHub",
+      "identifier": "github-check",
+      "caption": "Check out our GitHub, where you'll be able to request applications to be added! 😎",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/placeholder.jpeg",
+      "date": "2026-03-10",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/",
+      "notify": false
+    },
+    {
+      "title": "Credits + Reports ⚠️",
+      "identifier": "github-credits",
+      "caption": "Credits to @DatOneFlareon and @uxp70, create an issue with the button below to report bugs. ",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "date": "2026-03-17",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/issues",
+      "notify": false
+    }
+  ]
+}
+{
+  "name": "SEU repository",
+  "identifier": "com.github.DatOneFlareon",
+  "subtitle": "Enjoy!",
+  "description": "Official SEU repository.",
+  "website": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang",
+  "tintColor": "F1533E",
+  "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/Seu%20logo.png",
+  "updateFrequency": "As soon as possible.",
+  "apps": [
+    {
+      "beta": false,
+      "name": "blockb",
+      "bundleIdentifier": "co.bb.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Block-Blast-IPAOMTK.COM.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1374.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Craft Dig",
+      "bundleIdentifier": "co.CraftDig.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/minecraft-tutuipa.com-mod-2/Minecraft_tutuipa.com-mod2.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3953.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Duohacker",
+      "bundleIdentifier": "co.moddedduolingo.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/duolingo-language-lessons-ipaomtk.com/Duolingo_Language_Lessons_IPAOMTK.com.ipa",
+      "localizedDescription": "Modded bb.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3291.png",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Haxtube",
+      "bundleIdentifier": "co.ytmod.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, Tested",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/you-tube-oled-ipaomtk.com/YouTube-OLED-IPAOMTK.com.ipa",
+      "localizedDescription": "Modded yt.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "CrunchyHax",
+      "bundleIdentifier": "co.moddedcrunchyroll.de",
+      "developerName": "Distributor: umbra",
+      "subtitle": "Modded, due for testing",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/crunchyroll-ipaomtk.com/crunchyroll-ipaomtk.com.ipa",
+      "localizedDescription": "Modded Crunchyroll.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3923.jpeg",
+      "tintColor": "007AFF",
+      "size": 137765000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Sigmaclip",
+      "bundleIdentifier": "co.flipa.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/FlipaClip_Create_2D_Animation-v4.1.1-ipaomtk.com.ipa",
+      "localizedDescription": "Modded flipa",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1454.webp",
+      "tintColor": "007AFF",
+      "size": 64600000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "HaxFlix",
+      "bundleIdentifier": "co.netflixhax.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love Modded Apps.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-17T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/netflix-3.0/Netflix-3.0.ipa",
+      "localizedDescription": "Modded Netflix lmao",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3901.jpeg",
+      "tintColor": "007AFF",
+      "size": 34800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Leaf blower",
+      "bundleIdentifier": "co.lebl.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Leaf blower, game.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.ezplugins.leafblowerrevolution_v2.29.5_und3fined.ipa",
+      "localizedDescription": "Leaf blower.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1493.webp",
+      "tintColor": "007AFF",
+      "size": 49300000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Bird",
+      "bundleIdentifier": "co.Bird.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bird, if you know you know.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Feather.ipa",
+      "localizedDescription": "Bird.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1488.jpeg",
+      "tintColor": "007AFF",
+      "size": 14100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Twitch",
+      "bundleIdentifier": "co.twitch.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Twitch, the livestream application",
+      "version": "Fun 😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/tv.twitch_28.5_und3fined.ipa",
+      "localizedDescription": "Twitch.",
+      "iconURL": "https://yt3.googleusercontent.com/BK6t9ABThYng7A2KgDb6x2XQDl1oKGos2yKmXX0_hEG6n8YQlmIU_M6sXoRDxJAQGp4VItyTOQ=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 147200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Hamburger",
+      "bundleIdentifier": "co.hamburger.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "B-b-b-burger?",
+      "version": "Fun 😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest/close to.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.psyonixllc.mesa-1.12.5-Decrypted.ipa",
+      "localizedDescription": "Burger.",
+      "iconURL": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Hamburger-april-new-image:nutrition-calculator-tile?wid=822&hei=822&dpr=off",
+      "tintColor": "007AFF",
+      "size": 1100000000,
+      "screenshotURLs": [
+        "https://sm.pcmag.com/pcmag_uk/review/r/rocket-lea/rocket-league-sideswipe-for-ios_qde5.jpg",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:360,width:640/output=format:webp/cmfwxqek209im08odd210tg6t",
+        "https://us-west-2-epicgames.graphassets.com/cmkr1i7c9047e07n0es5291ez/resize=fit:clip,height:1080,width:1920/output=format:webp/c7JYXoU9Ss2RsRv6qsBT",
+        "https://www.gamereactor.eu/media/65/rocketleague_3656523b.jpg",
+        "https://static.wikia.nocookie.net/rlsideswipe/images/4/4b/Sideswipe_promo_image_4.png/revision/latest?cb=20210810142453"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Delta",
+      "bundleIdentifier": "co.delta.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Delta, the Palm hack.",
+      "version": "Fun😃",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Delta-2.710.707.ipa",
+      "localizedDescription": "Delta.",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1456.jpeg",
+      "tintColor": "007AFF",
+      "size": 111800000,
+      "screenshotURLs": [
+        "https://files.bo3.gg/uploads/image/97256/image/webp-509b633ed43bbdcee0bcd4c082870adf.webp"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Scarlet",
+      "bundleIdentifier": "co.scarlet.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Scarlet, the IPA installer.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/Scarlet%20IOS%20y_cz5_1.0_1659961194.ipa",
+      "localizedDescription": "Scarlet.",
+      "iconURL": "https://yt3.googleusercontent.com/2d0fcgw_Gv1gtYK8J8m0Cp2kZSf9mymBHjMj67XUMfz2tfHl8MtzgYihrTxSlsASPUqyXdCV=s900-c-k-c0x00ffffff-no-rj",
+      "tintColor": "007AFF",
+      "size": 31200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "BTD 6",
+      "bundleIdentifier": "co.BTD6.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Bloonz.",
+      "version": "Fun 🕹️",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Close to latest update/Latest.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/BloonsTD6.ipa",
+      "localizedDescription": "Bloons TD6.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "tintColor": "007AFF",
+      "size": 74800000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Mysign",
+      "bundleIdentifier": "co.mysign.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Mysign.",
+      "version": "Utility 🧮",
+      "versionDate": "2026-03-11T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/mysignipasigner.ipa",
+      "localizedDescription": "Mysign IPA signer.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1373.jpeg",
+      "tintColor": "007AFF",
+      "size": 24200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Oditor",
+      "bundleIdentifier": "co.pdfoditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "This is a generic PDF oditor. It is what it's meant to be.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-06T11:36:00+02:00",
+      "versionDescription": "Latest version of the IPA file.",
+      "downloadURL": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/raw/refs/heads/main/Ipa%20file/osign.ipa",
+      "localizedDescription": "PDF oditor.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3854.jpeg",
+      "tintColor": "9b54fd",
+      "size": 15000000,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3878.jpeg"
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Flamingo",
+      "bundleIdentifier": "co.flamingo.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love flamingos.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Close to latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/com.hammerandchisel.discord_318.0_und3fined.ipa",
+      "localizedDescription": "Flamingos.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/Flamingo.jpeg",
+      "tintColor": "007AFF",
+      "size": 99100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Palm",
+      "bundleIdentifier": "co.palm.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love palm trees.",
+      "version": "Updated ✅",
+      "versionDate": "2026-03-12T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/com.roblox.robloxmobile_2.715.1115_und3fined/com.roblox.robloxmobile_2.715.1115_und3fined.ipa",
+      "localizedDescription": "Palms.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "tintColor": "007AFF",
+      "size": 145100000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "CapCut Pro.",
+      "bundleIdentifier": "co.cappy.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "We love cappy.",
+      "version": "Featured ⭐️",
+      "versionDate": "2026-03-10T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/CapCut-2-IPAOMTK.COM_2.ipa",
+      "localizedDescription": "Cappy.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1405.jpeg",
+      "tintColor": "007AFF",
+      "size": 111200000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PDF Editor",
+      "bundleIdentifier": "co.PDFEditor.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "We love PDF editing.",
+      "version": "Fixed 🔧",
+      "versionDate": "2026-03-13T00:00:00+00:00",
+      "versionDescription": "Latest update.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/esign_5.0.2_unsigned.ipa",
+      "localizedDescription": "Editing PDFs",
+      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1487.jpeg",
+      "tintColor": "007AFF",
+      "size": 7500000,
+      "screenshotURLs": [
+
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Check out our GitHub",
+      "identifier": "github-check",
+      "caption": "Check out our GitHub, where you'll be able to request applications to be added! 😎",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/placeholder.jpeg",
+      "date": "2026-03-10",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/",
+      "notify": false
+    },
+    {
+      "title": "Credits + Reports ⚠️",
+      "identifier": "github-credits",
+      "caption": "Credits to @DatOneFlareon and @uxp70, create an issue with the button below to report bugs. ",
+      "tintColor": "848ef9",
+      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "date": "2026-03-17",
+      "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/issues",
+      "notify": false
+    }
+  ]
+}
+{
+  "name": "SEU repository",
+  "identifier": "com.github.DatOneFlareon",
+  "subtitle": "Enjoy!",
+  "description": "Official SEU repository.",
+  "website": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang",
+  "tintColor": "F1533E",
+  "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/Seu%20logo.png",
+  "updateFrequency": "As soon as possible.",
+  "apps": [
+    {
+      "beta": false,
+      "name": "blockb",
+      "bundleIdentifier": "co.bb.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Block-Blast-IPAOMTK.COM.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1374.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Craft Dig",
+      "bundleIdentifier": "co.CraftDig.de",
+      "developerName": "Distributor: Umbra",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/minecraft-tutuipa.com-mod-2/Minecraft_tutuipa.com-mod2.ipa",
+      "localizedDescription": "Modded duolingo.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3953.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
       "name": "Duohacker",
       "bundleIdentifier": "co.moddedduolingo.de",
       "developerName": "Distributor: Umbra",
