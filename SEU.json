@@ -10,24 +10,6 @@
   "apps": [
     {
       "beta": false,
-      "name": "blockb",
-      "bundleIdentifier": "co.bb.de",
-      "developerName": "Distributor: uxp",
-      "subtitle": "Modded, didn't try it out.",
-      "version": "Modded ⚙️",
-      "versionDate": "2026-03-18T00:00:00+00:00",
-      "versionDescription": "Latest update I hope, i rly dont know.",
-      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Block-Blast-IPAOMTK.COM.ipa",
-      "localizedDescription": "Modded block blast.",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1374.jpeg",
-      "tintColor": "007AFF",
-      "size": 137900000,
-      "screenshotURLs": [
-
-      ]
-    },
-    {
-      "beta": false,
       "name": "Craft Dig",
       "bundleIdentifier": "co.CraftDig.de",
       "developerName": "Distributor: Umbra",
@@ -40,6 +22,24 @@
       "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3953.jpeg",
       "tintColor": "007AFF",
       "size": 2137900000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
+      "name": "blockb",
+      "bundleIdentifier": "co.bb.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Modded, didn't try it out.",
+      "version": "Modded ⚙️",
+      "versionDate": "2026-03-18T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, i rly dont know.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/Block-Blast-IPAOMTK.COM.ipa",
+      "localizedDescription": "Modded block blast.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1374.jpeg",
+      "tintColor": "007AFF",
+      "size": 137900000,
       "screenshotURLs": [
 
       ]
