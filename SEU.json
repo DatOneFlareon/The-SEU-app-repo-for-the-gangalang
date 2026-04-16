@@ -13,7 +13,7 @@
       "name": "Craft Dig",
       "bundleIdentifier": "co.CraftDig.de",
       "developerName": "Distributor: Umbra",
-      "subtitle": "Modded, didn't try it out.",
+      "subtitle": "Modded, doesnt work, going to fix.",
       "version": "Modded ⚙️",
       "versionDate": "2026-04-15T00:00:00+00:00",
       "versionDescription": "Latest update I hope, i rly dont know.",
@@ -21,7 +21,7 @@
       "localizedDescription": "Modded craft.",
       "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3953.jpeg",
       "tintColor": "007AFF",
-      "size": 2137900000,
+      "size": 608000000,
       "screenshotURLs": [
 
       ]
