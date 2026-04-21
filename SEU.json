@@ -10,6 +10,24 @@
   "apps": [
     {
       "beta": false,
+      "name": "Psycho",
+      "bundleIdentifier": "co.psycho.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Difficult.",
+      "version": "Hard 🔥",
+      "versionDate": "2026-04-21T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, I am not sure.",
+      "downloadURL": "https://altushost-swe.dl.sourceforge.net/project/hey/PsychEngine.ipa?viasf=1",
+      "localizedDescription": "Modded psych.",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
+      "tintColor": "007AFF",
+      "size": 245000000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
       "name": "Craft Dig",
       "bundleIdentifier": "co.CraftDig.de",
       "developerName": "Distributor: Umbra",
