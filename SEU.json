@@ -10,6 +10,24 @@
   "apps": [
     {
       "beta": false,
+      "name": "Apple",
+      "bundleIdentifier": "co.apple.de",
+      "developerName": "Distributor: uxp",
+      "subtitle": "Difficult.",
+      "version": "Utility 🔧",
+      "versionDate": "2026-05-19T00:00:00+00:00",
+      "versionDescription": "Latest update I hope, I am not sure.",
+      "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.duckduckgo.mobile.ios_1.184.1_und3fined.ipa",
+      "localizedDescription": "Apple.",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
+      "tintColor": "007AFF",
+      "size": 161400000,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
       "name": "Psycho",
       "bundleIdentifier": "co.psycho.de",
       "developerName": "Distributor: uxp",
@@ -73,7 +91,7 @@
       "versionDescription": "Latest update I hope, i rly dont know.",
       "downloadURL": "https://archive.org/download/duolingo-language-lessons-ipaomtk.com/Duolingo_Language_Lessons_IPAOMTK.com.ipa",
       "localizedDescription": "Modded bb.",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3291.png",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 137900000,
       "screenshotURLs": [
@@ -91,7 +109,7 @@
       "versionDescription": "Latest update I hope, i rly dont know.",
       "downloadURL": "https://archive.org/download/you-tube-oled-ipaomtk.com/YouTube-OLED-IPAOMTK.com.ipa",
       "localizedDescription": "Modded yt.",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 137765,
       "screenshotURLs": [
@@ -109,7 +127,7 @@
       "versionDescription": "Latest update I hope, i rly dont know.",
       "downloadURL": "https://archive.org/download/crunchyroll-ipaomtk.com/crunchyroll-ipaomtk.com.ipa",
       "localizedDescription": "Modded Crunchyroll.",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3923.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 137765000,
       "screenshotURLs": [
@@ -127,7 +145,7 @@
       "versionDescription": "Latest update I hope, i rly dont know.",
       "downloadURL": "https://archive.org/download/bloons-td-6_202603/FlipaClip_Create_2D_Animation-v4.1.1-ipaomtk.com.ipa",
       "localizedDescription": "Modded flipa",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1454.webp",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 64600000,
       "screenshotURLs": [
@@ -145,7 +163,7 @@
       "versionDescription": "Latest update.",
       "downloadURL": "https://archive.org/download/netflix-3.0/Netflix-3.0.ipa",
       "localizedDescription": "Modded Netflix lmao",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3901.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 34800000,
       "screenshotURLs": [
@@ -163,7 +181,7 @@
       "versionDescription": "Latest.",
       "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.ezplugins.leafblowerrevolution_v2.29.5_und3fined.ipa",
       "localizedDescription": "Leaf blower.",
-      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1493.webp",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 49300000,
       "screenshotURLs": [
@@ -181,7 +199,7 @@
       "versionDescription": "Latest.",
       "downloadURL": "https://archive.org/download/bloons-td-6_202603/Feather.ipa",
       "localizedDescription": "Bird.",
-      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1488.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 14100000,
       "screenshotURLs": [
@@ -199,7 +217,7 @@
       "versionDescription": "Latest.",
       "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/tv.twitch_28.5_und3fined.ipa",
       "localizedDescription": "Twitch.",
-      "iconURL": "https://yt3.googleusercontent.com/BK6t9ABThYng7A2KgDb6x2XQDl1oKGos2yKmXX0_hEG6n8YQlmIU_M6sXoRDxJAQGp4VItyTOQ=s900-c-k-c0x00ffffff-no-rj",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 147200000,
       "screenshotURLs": [
@@ -217,7 +235,7 @@
       "versionDescription": "Latest/close to.",
       "downloadURL": "https://archive.org/download/bloons-td-6_202603/com.psyonixllc.mesa-1.12.5-Decrypted.ipa",
       "localizedDescription": "Burger.",
-      "iconURL": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Hamburger-april-new-image:nutrition-calculator-tile?wid=822&hei=822&dpr=off",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 1100000000,
       "screenshotURLs": [
@@ -239,7 +257,7 @@
       "versionDescription": "Close to latest update/Latest.",
       "downloadURL": "https://archive.org/download/bloons-td-6_202603/Delta-2.710.707.ipa",
       "localizedDescription": "Delta.",
-      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1456.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 111800000,
       "screenshotURLs": [
@@ -257,7 +275,7 @@
       "versionDescription": "Close to latest update/Latest.",
       "downloadURL": "https://archive.org/download/tv.twitch_28.5_und3fined/Scarlet%20IOS%20y_cz5_1.0_1659961194.ipa",
       "localizedDescription": "Scarlet.",
-      "iconURL": "https://yt3.googleusercontent.com/2d0fcgw_Gv1gtYK8J8m0Cp2kZSf9mymBHjMj67XUMfz2tfHl8MtzgYihrTxSlsASPUqyXdCV=s900-c-k-c0x00ffffff-no-rj",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 31200000,
       "screenshotURLs": [
@@ -275,7 +293,7 @@
       "versionDescription": "Close to latest update/Latest.",
       "downloadURL": "https://archive.org/download/bloons-td-6_202603/BloonsTD6.ipa",
       "localizedDescription": "Bloons TD6.",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 74800000,
       "screenshotURLs": [
@@ -293,7 +311,7 @@
       "versionDescription": "Close to latest update.",
       "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/mysignipasigner.ipa",
       "localizedDescription": "Mysign IPA signer.",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1373.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 24200000,
       "screenshotURLs": [
@@ -311,7 +329,7 @@
       "versionDescription": "Latest version of the IPA file.",
       "downloadURL": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/raw/refs/heads/main/Ipa%20file/osign.ipa",
       "localizedDescription": "PDF oditor.",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3854.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "9b54fd",
       "size": 15000000,
       "screenshotURLs": [
@@ -329,7 +347,7 @@
       "versionDescription": "Close to latest update.",
       "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/com.hammerandchisel.discord_318.0_und3fined.ipa",
       "localizedDescription": "Flamingos.",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/Flamingo.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 99100000,
       "screenshotURLs": [
@@ -347,7 +365,7 @@
       "versionDescription": "Latest update.",
       "downloadURL": "https://archive.org/download/com.roblox.robloxmobile_2.715.1115_und3fined/com.roblox.robloxmobile_2.715.1115_und3fined.ipa",
       "localizedDescription": "Palms.",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/IMG_3875.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 145100000,
       "screenshotURLs": [
@@ -365,7 +383,7 @@
       "versionDescription": "Latest update.",
       "downloadURL": "https://bitbucket.org/sskidkdieiwid/seutesting/downloads/CapCut-2-IPAOMTK.COM_2.ipa",
       "localizedDescription": "Cappy.",
-      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1405.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 111200000,
       "screenshotURLs": [
@@ -383,7 +401,7 @@
       "versionDescription": "Latest update.",
       "downloadURL": "https://archive.org/download/bloons-td-6_202603/esign_5.0.2_unsigned.ipa",
       "localizedDescription": "Editing PDFs",
-      "iconURL": "https://archive.org/download/bloons-td-6_202603/IMG_1487.jpeg",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 7500000,
       "screenshotURLs": [
@@ -397,7 +415,7 @@
       "identifier": "github-check",
       "caption": "Check out our GitHub, where you'll be able to request applications to be added! 😎",
       "tintColor": "848ef9",
-      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/Ipa%20file/placeholder.jpeg",
+      "imageURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "date": "2026-03-10",
       "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/",
       "notify": false
@@ -407,7 +425,7 @@
       "identifier": "github-credits",
       "caption": "Credits to @DatOneFlareon and @uxp70, create an issue with the button below to report bugs. ",
       "tintColor": "848ef9",
-      "imageURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/refs/heads/main/Ipa%20file/IMG_1422.jpeg",
+      "imageURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "date": "2026-03-17",
       "url": "https://github.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/issues",
       "notify": false
