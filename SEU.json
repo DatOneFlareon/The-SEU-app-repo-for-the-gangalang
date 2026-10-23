@@ -82,7 +82,7 @@
     },
     {
       "beta": false,
-      "name": "blockb",
+      "name": "HaxBlast",
       "bundleIdentifier": "co.bb.de",
       "developerName": "Distributor: uxp",
       "subtitle": "Modded, didn't try it out.",
@@ -100,7 +100,7 @@
     },
     {
       "beta": false,
-      "name": "Duohacker",
+      "name": "HaxLingo",
       "bundleIdentifier": "co.moddedduolingo.de",
       "developerName": "Distributor: Umbra",
       "subtitle": "Modded, didn't try it out.",
@@ -118,7 +118,7 @@
     },
     {
       "beta": false,
-      "name": "Haxtube",
+      "name": "HaxTube",
       "bundleIdentifier": "co.ytmod.de",
       "developerName": "Distributor: umbra",
       "subtitle": "Modded, Tested",
@@ -154,7 +154,7 @@
     },
     {
       "beta": false,
-      "name": "Sigmaclip",
+      "name": "HaxClip",
       "bundleIdentifier": "co.flipa.de",
       "developerName": "Distributor: uxp",
       "subtitle": "Modded, didn't try it out.",
