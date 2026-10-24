@@ -10,6 +10,22 @@
   "apps": [
     {
       "beta": false,
+      "name": "SEU HQ Write Test",
+      "bundleIdentifier": "com.seuhq.writetest",
+      "developerName": "SEU",
+      "subtitle": "temporary verification entry",
+      "version": "0.0.1",
+      "versionDate": "2026-10-24T08:19:34.011Z",
+      "versionDescription": "Added from SEU HQ.",
+      "downloadURL": "https://example.com/seu-hq-write-test.ipa",
+      "localizedDescription": "temporary verification entry",
+      "iconURL": "https://example.com/icon.png",
+      "tintColor": "007AFF",
+      "size": 4096,
+      "screenshotURLs": []
+    },
+    {
+      "beta": false,
       "name": "Jump",
       "bundleIdentifier": "co.jump.de",
       "developerName": "Distributor: uxp",
@@ -22,9 +38,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 139300000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -40,9 +54,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 161400000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -58,9 +70,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 245000000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -76,9 +86,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 608000000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -94,9 +102,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 137900000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -112,9 +118,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 137900000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -130,9 +134,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 137765,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -148,9 +150,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 137765000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -166,9 +166,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 64600000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -184,9 +182,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 34800000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -202,9 +198,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 49300000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -220,9 +214,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 14100000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -238,9 +230,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 147200000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -296,9 +286,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 31200000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -314,9 +302,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 74800000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -332,9 +318,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 24200000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -368,9 +352,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 99100000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -386,9 +368,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 113400000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -404,9 +384,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 111200000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     },
     {
       "beta": false,
@@ -422,9 +400,7 @@
       "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
       "tintColor": "007AFF",
       "size": 7500000,
-      "screenshotURLs": [
-
-      ]
+      "screenshotURLs": []
     }
   ],
   "news": [
