@@ -10,6 +10,24 @@
   "apps": [
     {
       "beta": false,
+      "name": "ModTok",
+      "bundleIdentifier": "seuseu.gtok.app",
+      "developerName": "SEU",
+      "subtitle": "✅ New!",
+      "version": "46.5.0",
+      "versionDate": "2026-10-24T21:08:00.942Z",
+      "versionDescription": "Added from SEU HQ.",
+      "downloadURL": "https://github.com/uxp70/raw-file-website/releases/download/files/1792875838-GTok_46.5.0_vkehp6vt.ipa",
+      "localizedDescription": "✅ New!",
+      "iconURL": "https://codeberg.org/seuhq/seutesting/raw/branch/main/IMG_3956.jpeg",
+      "tintColor": "007AFF",
+      "size": 451400232,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
       "name": "Jump",
       "bundleIdentifier": "co.jump.de",
       "developerName": "Distributor: uxp",
