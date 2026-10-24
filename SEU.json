@@ -10,6 +10,24 @@
   "apps": [
     {
       "beta": false,
+      "name": "ModSnap",
+      "bundleIdentifier": "seuseu.modsnap.app",
+      "developerName": "SEU",
+      "subtitle": "New! Implemented automatically.",
+      "version": "1.0",
+      "versionDate": "2026-10-24T21:20:20.891Z",
+      "versionDescription": "Added from SEU HQ.",
+      "downloadURL": "https://github.com/uxp70/raw-file-website/releases/download/files/1792876544-Snapchat_12.71.0.36_rundq6no.ipa",
+      "localizedDescription": "New! Implemented automatically.",
+      "iconURL": "https://raw.githubusercontent.com/DatOneFlareon/The-SEU-app-repo-for-the-gangalang/main/SEU.json",
+      "tintColor": "007AFF",
+      "size": 109916145,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
+      "beta": false,
       "name": "ModTok",
       "bundleIdentifier": "seuseu.gtok.app",
       "developerName": "SEU",
